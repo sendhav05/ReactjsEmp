@@ -1,0 +1,29 @@
+
+.container {
+  height: 100vh;
+  background-image: url('./images/bgImage.jpg');
+}
+
+.body {
+  height: 100vh;
+}
+
+.headerText {
+  color: black;
+  text-align: center;
+  padding-top: 10px;
+}
+
+.subTitle {
+  color: black;
+  text-align: center;
+}
+
+.empForm {
+  height: 70%;
+  background-color: white;
+  margin: auto;
+  width: 50%;
+  border: 1px solid green;
+  padding: 10px;
+}
