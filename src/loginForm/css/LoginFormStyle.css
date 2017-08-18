@@ -23,7 +23,37 @@
   height: 70%;
   background-color: white;
   margin: auto;
-  width: 50%;
-  border: 1px solid green;
+  width: 40%;
   padding: 10px;
+  border-radius: 5px;
+  color: white;
+  box-shadow: 2px 2px 4px lightgrey;
+  justify-content: center;
+  align-items: center;
+}
+
+.inputFirstname {
+  margin-left: 15%;
+  margin-top: 20px;
+  width: 70%;
+  border: 1px solid green;
+  font-size: 15px;
+  padding: 8px;
+  border-radius: 3px;
+  box-shadow: 2px 2px 4px lightgrey;
+}
+
+.buttonSubmit {
+  margin-left: 27.5%;
+  margin-top: 25px;
+  height: 45px;
+  width: 45%;
+  border: 1px solid green;
+  font-size: 18px;
+  padding: 8px;
+  color: white;
+  font-weight: bold;
+  border-radius: 3px;
+  box-shadow: 2px 2px 4px lightgrey;
+  background-color: orange;
 }
